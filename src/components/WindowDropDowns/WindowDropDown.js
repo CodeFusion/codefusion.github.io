@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 
 import iePaper from 'assets/windowsIcons/ie-paper.png';
+import ffPaper from 'assets/windowsIcons/ff-paper.png';
 import ieBook from 'assets/windowsIcons/ie-book.png';
 import check from 'assets/windowsIcons/checked.png';
 import folder from 'assets/windowsIcons/folder.png';
@@ -74,6 +75,8 @@ function RowSymbol({ type }) {
   switch (type) {
     case 'ie-paper':
       return <img className="drop-down__icon" src={iePaper} alt="" />;
+    case 'ff-paper':
+      return <img className="drop-down__icon" src={ffPaper} alt="" />;
     case 'ie-book':
       return <img className="drop-down__icon" src={ieBook} alt="" />;
     case 'folder':

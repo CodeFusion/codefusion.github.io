@@ -1,6 +1,6 @@
 {
-  "short_name": "WinXP",
-  "name": "Windows XP in React and Hooks",
+  "short_name": "Kyle",
+  "name": "Kyle Ramey",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#fff",
-  "background_color": "#fff"
+  "background_color": "#245ddb"
 }

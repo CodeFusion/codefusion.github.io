@@ -12,7 +12,7 @@ function Paint({ onClose, isFocus }) {
       }}
     >
       <iframe
-        src="https://jspaint.app"
+        src="https://paint.js.org"
         frameBorder="0"
         title="paint"
         style={{
