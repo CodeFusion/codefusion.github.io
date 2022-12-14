@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "name": "Kyle ramey",
+  "name": "Kyle Ramey",
   "builds": [
     {
       "src": "package.json",
       "use": "@now/static-build",
-      "config": { "distDir": "public" }
+      "config": { "distDir": "build" }
     }
   ],
   "routes": [
