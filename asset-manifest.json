@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c65623f0.chunk.css",
+    "main.js": "/static/js/main.60ccb124.chunk.js",
+    "main.js.map": "/static/js/main.60ccb124.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.e11d9638.js",
+    "runtime~main.js.map": "/static/js/runtime~main.e11d9638.js.map",
+    "static/js/2.d12bc932.chunk.js": "/static/js/2.d12bc932.chunk.js",
+    "static/js/2.d12bc932.chunk.js.map": "/static/js/2.d12bc932.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae4e485f64b73049b077a4330429432b.js": "/precache-manifest.ae4e485f64b73049b077a4330429432b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c65623f0.chunk.css.map": "/static/css/main.c65623f0.chunk.css.map",
+    "static/media/all-programs.ico": "/static/media/all-programs.a48640a2.ico",
+    "static/media/error.wav": "/static/media/error.199b5352.wav",
+    "static/media/find.svg": "/static/media/find.cfc00209.svg",
+    "static/media/narrator.ico": "/static/media/narrator.e23232f0.ico",
+    "static/media/restart.ico": "/static/media/restart.bfcfd28f.ico",
+    "static/media/restore.ico": "/static/media/restore.8e8ae78a.ico",
+    "static/media/smile.svg": "/static/media/smile.33211a17.svg",
+    "static/media/view-info.ico": "/static/media/view-info.415b027d.ico"
+  }
+}
